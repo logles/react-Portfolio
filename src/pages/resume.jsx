@@ -1,5 +1,5 @@
 import React from "react"; //? do i need this?
-import resumePDF from "../assets/resume.pdf";
+import resumePDF from "../assets/Resume.pdf";
 
 function Resume() {
   return (
