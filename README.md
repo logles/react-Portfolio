@@ -15,7 +15,7 @@
 
 ## Description
 
-This is a **React-based portfolio** designed to showcase my projects and skills as a web developer. It features multiple sections including **About Me, Portfolio, Contact, and Resume**. The portfolio is built using **Vite** for fast development and deployed on **Netlify**.
+This is a **React-based portfolio** designed to showcase my projects and skills as a web developer. It features multiple sections including **About Me, Portfolio, Contact, and Resume**. The portfolio is built using **Vite** for fast development and deployed on **Netlify** https://app.netlify.com/sites/marvelous-malasada-16cf37/overview.
 
 ## Installation
 
