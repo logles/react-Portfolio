@@ -3,6 +3,8 @@ import arImage from "../assets/ar.png";
 import cmImage from "../assets/cm.png";
 import waImage from "../assets/wa.png";
 import vbImage from "../assets/vb.png";
+import pwImage from "../assets/pw.png";
+import rpImage from "../assets/rp.png";
 
 function Portfolio() {
   const projects = [
@@ -36,6 +38,21 @@ function Portfolio() {
       link: "https://github.com/logles/vehicle-builder",
       // linkTwo: "",
       image: vbImage,
+    },
+    {
+      title: "React Portfolio",
+      description: "This portfolio website",
+      link: "https://github.com/logles/react-Portfolio",
+      linkTwo:
+        "https://67b53cb1da11c55b96d426c6--marvelous-malasada-16cf37.netlify.app/",
+      image: rpImage,
+    },
+    {
+      title: "prework-sudy-guide",
+      description: "Preparation work for joining the U of U coding bootcamp",
+      link: "https://github.com/logles/prework-study-guide",
+      // linkTwo: "",
+      image: pwImage,
     },
   ];
 

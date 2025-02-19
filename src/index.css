@@ -291,6 +291,13 @@ a.project-buttonTwo {
   > div
   > div:nth-child(4)
   > div.project-details
+  > a.project-buttonTwo,
+#root
+  > div
+  > main
+  > div
+  > div:nth-child(6)
+  > div.project-details
   > a.project-buttonTwo {
   display: none;
 }
@@ -367,6 +374,7 @@ body {
 @media (max-width: 768px) {
   body {
     padding-top: 120px;
+    margin-bottom: 100px;
   }
 
   .project-card {
